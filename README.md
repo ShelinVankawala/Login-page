@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+# Getting Started with React App
+
+A student's result management system for departmental purpose. 
